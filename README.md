@@ -13,8 +13,8 @@ The Netflix Clone is a web application inspired by Netflix, offering users a fea
 
 
 
-Contact
+# Contact
 For questions or feedback:
 
-Email: gauriwalunj448@gmail.com
-GitHub: https://github.com/Gauri-Walunj/
+- Email: gauriwalunj448@gmail.com
+- GitHub: https://github.com/Gauri-Walunj/
